@@ -1,12 +1,30 @@
-## 🦇 BatDev 
-*Desarrollo software que marca la diferencia.*
+# 🦇 BatSoft Solutions  
+**Desarrollo de software que marca la diferencia.**  
 
-### 🔗 Enlaces
-- [Portafolio](https://batdev.github.io)
-- [Contacto](mailto:blizzsoftword@gmail.com)
+Somos un equipo apasionado por crear soluciones tecnológicas a medida: aplicaciones web, escritorio, móviles y bots de automatización. Transformamos ideas en productos funcionales, escalables y con impacto real.  
 
-### 🛠 Proyectos Destacados
-- [BotXYZ](https://github.com/BatDev/botxyz): Er'Caliente.
-- [AppXYZ](https://github.com/BatDev/appxyz): Todozz.
-- [AppXYZ](https://github.com/BatDev/appxyz): Bike Shop.
-- [AppXYZ](https://github.com/BatDev/appxyz): Inventario.
+---
+
+## 🚀 Áreas de especialización  
+
+- **🌐 Aplicaciones Web** – Sitios dinámicos, plataformas SaaS, dashboards y e‑commerce.  
+- **🖥️ Software de Escritorio** – Herramientas robustas para Windows, macOS y Linux.  
+- **📱 Apps Móviles (APK)** – Experiencias nativas y multiplataforma para Android.  
+- **🤖 Bots de Automatización** – Procesos inteligentes que ahorran tiempo y recursos.  
+
+---
+
+## 📌 Enlaces  
+
+- 🌍 [Web General](https://batdev.github.io)
+- 🎥 [YouTube](https://www.youtube.com/) *(próximamente)*  
+
+---
+
+## 🤝 ¿Hablamos?  
+
+¿Tienes un proyecto en mente o necesitas apoyo técnico? Escríbenos a **blizzsoftword@gmail.com** y te responderemos a la brevedad.  
+
+---
+
+**BatSoft Solutions** – Código que transforma. 🦇✨  
