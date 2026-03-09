@@ -7,8 +7,8 @@ Somos un equipo apasionado por crear soluciones tecnológicas a medida: aplicaci
 
 ## 🚀 Áreas de especialización  
 
-- **🌐 Aplicaciones Web** – Sitios dinámicos, plataformas SaaS, dashboards y e‑commerce.  
-- **🖥️ Software de Escritorio** – Herramientas robustas para Windows, macOS y Linux.  
+- **🌐 Aplicaciones Web** – Sitios dinámicos, plataformas SaaS, dashboards, e‑commerce y otros.  
+- **🖥️ Software de Escritorio** – Herramientas robustas para Windows y Linux.  
 - **📱 Apps Móviles (APK)** – Experiencias nativas y multiplataforma para Android.  
 - **🤖 Bots de Automatización** – Procesos inteligentes que ahorran tiempo y recursos.  
 
