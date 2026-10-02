@@ -16,7 +16,6 @@ Somos un equipo apasionado por crear soluciones tecnológicas a medida: aplicaci
 
 ## 📌 Enlaces  
 
-- 🌍 [Web General](https://batdev.github.io)
 - 🎥 [YouTube](https://www.youtube.com/) *(próximamente)*  
 
 ---
